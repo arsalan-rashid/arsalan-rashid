@@ -31,7 +31,6 @@ Full-Stack Application Developer with more than 6 years of Web Application Devel
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... crazy Projects
 - 🎈  Hobbies - Playing intruments, coding and singing
