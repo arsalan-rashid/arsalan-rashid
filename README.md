@@ -2,6 +2,7 @@
 
 ## ⚡ Technologies
 
+![Salesforce](https://img.shields.io/badge/-salesforce-black?style=flat-square&logo=salesforce)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress)
