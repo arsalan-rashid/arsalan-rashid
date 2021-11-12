@@ -24,7 +24,7 @@
 ### Open Source Developer 🔬
 🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇
 ### 🎬 Summary
-Full-Stack Application Developer with more than 8 years of Web Application Development Experience and 3 years of professional Experience as a full-Stack web developer and IT Trainer.
+I am a 2x Certified Salesforce developer and nCino 301 Commercial Banking Configuration certified. With over 8+ years of experience in developing custom JavaScript and NodeJS based web applications. Have hands-on skills in technologies like HTML, CSS, JavaScript, Bootstrap, NodeJS, Express, SQL and MongoDB.
 
 
 
